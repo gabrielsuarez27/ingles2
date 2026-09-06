@@ -27,7 +27,7 @@ const ES = {
   "hero.role": "Desarrollador Web · Soporte Técnico",
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Actualmente estudio programación web. Me gusta dibujar, viajar y jugar videojuegos, y también me interesa aprender cada vez más sobre programación y desarrollo web. Ahora estoy buscando mejorar mis habilidades y aprender cosas nuevas que me puedan servir en el futuro.]",
+  "about.text":           "Actualmente estudio programación web. Me gusta dibujar, viajar y jugar videojuegos, y también me interesa aprender cada vez más sobre programación y desarrollo web. Ahora estoy buscando mejorar mis habilidades y aprender cosas nuevas que me puedan servir en el futuro.",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "[Ciudad], Colombia",
