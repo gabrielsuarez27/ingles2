@@ -30,7 +30,7 @@ const ES = {
   "about.text":           "[Actualmente estudio programación web. Me gusta dibujar, viajar y jugar videojuegos, y también me interesa aprender cada vez más sobre programación y desarrollo web. Ahora estoy buscando mejorar mis habilidades y aprender cosas nuevas que me puedan servir en el futuro.]",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Purificacion, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
   "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
